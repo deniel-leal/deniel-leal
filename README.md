@@ -12,13 +12,18 @@ My name is Deniel Leal. I work as a student at my home.
 ![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=green)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-06122A?style=flat&color=green)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;
+![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
 ![Docker](https://img.shields.io/badge/-Docker-06122A?style=flat&color=blue)&nbsp;  
 
 
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deniel-leal&layout=compact&count_private=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=deniel-leal&hide_border=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=deniel-leal&count_private=true&show_icons=true)
 
 ### Let's connect? 🤝
 
