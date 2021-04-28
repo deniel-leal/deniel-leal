@@ -8,7 +8,9 @@ My name is Deniel Leal. I work as a student at my home.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=deniel-leal&repo=deniel-leal&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;
+![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&color=green)&nbsp;
+![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=green)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
 ![Docker](https://img.shields.io/badge/-Docker-06122A?style=flat&color=blue)&nbsp;  
 
