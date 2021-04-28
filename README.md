@@ -10,7 +10,7 @@ My name is Deniel Leal. I work as a student at my home.
 ### Languages & Tools 🛠  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;  
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=blue)&nbsp;  
+![Docker](https://img.shields.io/badge/-Docker-06122A?style=flat&color=blue)&nbsp;  
 
 
 ### Analytics ⚙️
