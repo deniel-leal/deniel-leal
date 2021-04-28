@@ -35,6 +35,6 @@ My name is Deniel Leal. I have 13 year olds I work as a student at my home.
 
 </p>
 
-### Do you want see my projects? <img src="https://cdn.betterttv.net/emote/5de3bdeb60bd0702dc511397/3x" width="50"/>
+### Do you want see my projects? <img src="https://cdn.betterttv.net/emote/5de3bdeb60bd0702dc511397/3x" width="30"/>
 
 <a href="https://parallax-effect.denielleal.repl.co/"><img src="https://img.shields.io/badge/-github-05122A?style=flat&color=gray)&nbsp"/></a>
