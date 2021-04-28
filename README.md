@@ -35,8 +35,8 @@ My name is Deniel Leal. I work as a student at my home.
 
 </p>
 
-### Do you see my projects?
+### Do you want see my projects?
 
 <p align="left"> 
   
-<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="https://img.shields.io/badge/-github-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="![image](https://user-images.githubusercontent.com/66749838/116438301-b0986b00-a824-11eb-88df-11d856fcf9e0.png)"/></a>
