@@ -12,8 +12,8 @@ My name is Deniel Leal. I work as a student at my home.
 ![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=green)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;
 ![Elixir](https://img.shields.io/badge/-Elixir-06122A?style=flat&color=green)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;
-![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
 ![Docker](https://img.shields.io/badge/-Docker-06122A?style=flat&color=blue)&nbsp;  
 
 
@@ -39,4 +39,4 @@ My name is Deniel Leal. I work as a student at my home.
 
 <p align="left"> 
   
-<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="https://user-images.githubusercontent.com/66749838/116438566-f0f7e900-a824-11eb-9266-f3239b340de6.png"/></a>
+<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="(https://img.shields.io/badge/-github-05122A?style=flat&color=gray)&nbsp; "/></a>
