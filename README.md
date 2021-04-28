@@ -19,10 +19,8 @@ My name is Deniel Leal. I work as a student at my home.
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deniel-leal&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=deniel-leal&count_private=true&show_icons=true)
-
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=deniel-leal&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=deniel-leal&count_private=true&show_icons=true)
 
 ### Let's connect? 🤝
 
