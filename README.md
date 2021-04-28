@@ -39,4 +39,4 @@ My name is Deniel Leal. I work as a student at my home.
 
 <p align="left"> 
   
-<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="![image](https://user-images.githubusercontent.com/66749838/116438301-b0986b00-a824-11eb-88df-11d856fcf9e0.png)"/></a>
+<a href="https://github.com/deniel-leal/Parallax-Effect"><img src="https://user-images.githubusercontent.com/66749838/116438301-b0986b00-a824-11eb-88df-11d856fcf9e0.png"/></a>
