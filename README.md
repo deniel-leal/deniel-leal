@@ -31,7 +31,7 @@ My name is Deniel Leal. I have 13 year olds I work as a student at my home.
 
 <a href="https://twitter.com/oWumb"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/deniel_leal/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/deniel.brandao/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
 
