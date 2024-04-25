@@ -34,7 +34,3 @@ My name is Deniel Leal. I have 16 year olds I work as a student at my home.
 <a href="https://www.instagram.com/deniel.brandao/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
-
-### Do you want see my projects? <img src="https://cdn.betterttv.net/emote/5de3bdeb60bd0702dc511397/3x" width="50"/>
-
-<a href="https://parallax-effect.denielleal.repl.co/"><img src="https://img.shields.io/badge/-github-05122A?style=flat&color=gray)&nbsp"/></a>
